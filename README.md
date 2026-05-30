@@ -33,5 +33,5 @@ Each card contains:
 ## Purpose
 This project was created as an assignment for the Mobile Application Development course.
 
-## Developed By
-Kashuf Aftab
+## Aurthor
+Tayyab Maqsood
